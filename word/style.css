@@ -1,0 +1,96 @@
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+NZ:wght@100..400&display=swap');
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+.container{
+  background-image: url(./img/pexels-helloaesthe-26558168.jpg);
+  height: 100vh;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.para{
+  background-color: aquamarine;
+  font-size: 20px;
+  text-align: center;
+  padding-top: 40px;
+  height: 100px;
+  font-family:" Playwrite NZ", cursive;
+}
+ .container1{
+
+  background-image: url(./img/pexels-hellojoshwithers-17697959.jpg);
+  height: 100vh;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.para1{
+  background-color: aquamarine;
+  font-size: 20px;
+  text-align: center;
+  padding-top: 40px;
+  height: 100px;
+  font-family:" Playwrite NZ", cursive;
+}
+.container2{
+  background-image: url(./img/pexels-nati-87264186-26159411.jpg);
+  height: 100vh;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.para2{
+  background-color: aquamarine;
+  font-size: 20px;
+  text-align: center;
+  padding-top: 40px;
+  height: 100px;
+  font-family:" Playwrite NZ", cursive;
+}
+.container3{
+  background-image: url(./img/pexels-nida-kurt-5079840-8652113.jpg);
+  height: 100vh;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.para3{
+  background-color: aquamarine;
+  font-size: 20px;
+  text-align: center;
+  padding-top: 40px;
+  height: 90px;
+  font-family:" Playwrite NZ", cursive;
+}
+h1{
+  border: 2px solid rgb(171, 79, 79);
+  width: 300px;
+  height: 100px;
+  text-align: center;
+  padding-top: 35px;
+  border-top-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+  background-color: rgba(245, 245, 220, 0.076);
+  color: rgba(0, 0, 255, 0.734);
+
+}
